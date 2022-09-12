@@ -2,6 +2,7 @@
 
 ## Monday (2022-09-12)
 - Last Week Tonight with John Oliver 9x22
+
 ## Thursday (2022-09-15)
 - She-Hulk: Attorney at Law 1x5
 - Star Trek: Lower Decks 3x4
