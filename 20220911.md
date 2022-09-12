@@ -4,6 +4,7 @@
 - Last Week Tonight with John Oliver 9x22
 
 ## Thursday (2022-09-15)
+- DC's Stargirl 3x3
 - She-Hulk: Attorney at Law 1x5
 - Star Trek: Lower Decks 3x4
 - The Lord of the Rings: The Rings of Power 1x4
