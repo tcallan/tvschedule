@@ -1,17 +1,21 @@
 # This Week
 
-## Monday (2026-11-02)
-- Last Week Tonight with John Oliver 13x28
+## Monday (2026-11-09)
+- Last Week Tonight with John Oliver 13x29
 
-## Thursday (2026-11-05)
-- Abbott Elementary 6x5
+## Wednesday (2026-11-11)
+- NCIS 24x5
+- The Lord of the Rings: The Rings of Power 3x1
+
+## Thursday (2026-11-12)
+- Abbott Elementary 6x6
 
 # Currently Watching
 
 | Series | Last | Next |
 | --- | --- | --- |
-| Abbott Elementary | 2026-10-28 | 2026-11-04 |
-| Last Week Tonight with John Oliver | 2026-10-25 | 2026-11-01 |
+| Abbott Elementary | 2026-11-04 | 2026-11-11 |
+| Last Week Tonight with John Oliver | 2026-11-01 | 2026-11-08 |
 | Moon Knight | 2022-05-04 | ? |
 | Ms. Marvel | 2022-07-13 | ? |
 | NCIS | 2026-10-27 | 2026-11-10 |
@@ -27,4 +31,4 @@
 | The Wheel of Time | 2025-04-17 | ? |
 | Whose Line Is It Anyway? | 2024-11-01 | ? |
 
-[Last Week](20261025.md)
+[Last Week](20261101.md)
